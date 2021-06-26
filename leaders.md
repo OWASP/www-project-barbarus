@@ -1,2 +1,2 @@
 ### Leaders
-* [Nebrass Lamouchi](mailto:lnibrass@gmail.com)
+* [Nebrass Lamouchi](mailto:nebrass.lamouchi@owasp.org)
