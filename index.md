@@ -4,8 +4,8 @@ layout: col-sidebar
 title: OWASP Barbarus
 tags: example-tag
 level: 2
-type: 
-pitch: A very brief, one-line description of your project
+type: code
+pitch: OWASP Barbarus is a secure authentication layer for web applications using a smartphone client application (Android & iOS).
 
 ---
 
